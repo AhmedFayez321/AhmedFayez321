@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Ahmed Fayez! 👋
 
-<!--
-**AhmedFayez321/AhmedFayez321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior student specializing in Artificial Intelligence at Misr International Computer and AI Academy (MICA). I am passionate about bringing ideas to life through Hardware, Embedded Systems, and Robotics. 
 
-Here are some ideas to get you started:
+### 🚀 What I do:
+* Design and build mobile robots (Tracked, Wheeled, Line-Followers).
+* Develop IoT solutions and Smart Home devices.
+* Work with Microcontrollers (Arduino, ESP8266, Raspberry Pi).
+* Currently building a smart guide humanoid robot for my graduation project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools:
+* **Hardware:** 3D Printing, PCB Prototyping, Motor Drivers, Sensors.
+* **Tech Stack:** C++ (Arduino), Python, Firebase, KiCad, EAGLE.
+* **Robotics:** PID Control, SLAM, Kinematics.
+
+📫 **How to reach me:** ahmedfayaez21@gmail.com
