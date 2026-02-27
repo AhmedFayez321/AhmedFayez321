@@ -11,7 +11,7 @@ I am a multi-disciplinary engineer dedicated to building intelligent machines. M
 **Project:** [Jarvis: Interactive AI Robotic Arm](https://github.com/AhmedFayez321/Jarvis-Robotic-Arm-Showcase)
 
 <p align="center">
-  <img src="https://github.com/AhmedFayez321/Jarvis-Robotic-Arm-Showcase/blob/main/Media/images/robot_and_controller.png" width="80%" alt="Jarvis Project Overview">
+  <img src="https://github.com/AhmedFayez321/Jarvis-Robotic-Arm-Showcase/blob/main/Media/images/robot_and_controller.png" width="50%" alt="Jarvis Project Overview">
 </p>
 
 * **Track Expertise:** This project pushed me to master **Kinematics** and **Human-Robot Interaction (HRI)**. By integrating **MediaPipe** and **OpenCV**, I moved beyond simple automation to creating a machine that maintains a "Social Presence" through autonomous tracking and gesture recognition. 
@@ -47,7 +47,7 @@ I am a multi-disciplinary engineer dedicated to building intelligent machines. M
 **Project:** [IoT Smart Home System (ESP-01 & Firebase)](https://github.com/AhmedFayez321/IoT-Smart-Home-System)
 
 <p align="center">
-  <img src="https://github.com/AhmedFayez321/IoT-Smart-Home-System/blob/main/Media/Image1.png" width="80%" alt="IoT System Dashboard">
+  <img src="https://github.com/AhmedFayez321/IoT-Smart-Home-System/blob/main/Media/Image1.png" width="50%" alt="IoT System Dashboard">
 </p>
 
 * **Track Expertise:** Reliability is the soul of IoT. This system has been operational in a real-world environment for **over 1.5 years without downtime**, proving my ability to build "Production-Ready" solutions.
