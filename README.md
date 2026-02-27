@@ -32,7 +32,7 @@ I am a multi-disciplinary engineer dedicated to building intelligent machines. M
 ---
 
 ### 3️⃣ Mechatronics & Digital Manufacturing (Machines)
-**Project:** [Custom Mini CNC PCB Plotter](https://github.com/AhmedFayez321/cnc-machine-3-axis)
+**Project:** [Custom Mini CNC PCB Plotter](https://github.com/AhmedFayez321/Mini-CNC-Plotter-Arduino)
 
 <p align="center">
   <img src="https://github.com/AhmedFayez321/Mini-CNC-Plotter-Arduino/blob/main/Hardware/Schematics/CNC_Schematic.png" width="80%" alt="CNC Machine Design">
@@ -44,7 +44,7 @@ I am a multi-disciplinary engineer dedicated to building intelligent machines. M
 ---
 
 ### 4️⃣ Full-Stack IoT & System Reliability
-**Project:** [IoT Smart Home System (ESP-01 & Firebase)](https://github.com/AhmedFayez321/Smart-Home-System)
+**Project:** [IoT Smart Home System (ESP-01 & Firebase)](https://github.com/AhmedFayez321/IoT-Smart-Home-System)
 
 <p align="center">
   <img src="https://github.com/AhmedFayez321/IoT-Smart-Home-System/blob/main/Media/Image1.png" width="80%" alt="IoT System Dashboard">
