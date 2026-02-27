@@ -53,14 +53,6 @@ The award-winning autonomous robot from the RoboCup MICA 2025 competition.
 
 ---
 
-## 📊 GitHub Ecosystem
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedFayez321&show_icons=true&theme=radical" alt="Ahmed's Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFayez321&layout=compact&theme=radical" alt="Top Languages" width="300"/>
-</p>
-
----
-
 ## 📫 Let's Connect!
 I am always open to discussing advanced robotics, automation, and embedded systems.
 
